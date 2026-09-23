@@ -1,0 +1,15 @@
+(v1,v2,v3)=(1,2,3)
+print(v1,v2,v3)
+t=(10,20,30)
+print(t)
+(v1,v2,v3)=t
+print(v1,v2,v3)
+(v1,v2,v3,v4)=(1+4,2,3/3,4.5)
+print(v1,v2,v3,v4)
+a=10
+b=20
+print(a)
+print(b)
+a,b=b,a
+print(a)
+print(b)

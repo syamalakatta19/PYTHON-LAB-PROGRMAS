@@ -1,0 +1,15 @@
+s3={1,2,3,4,5,6,6}
+s3.remove(6)
+print(s3)
+s={1,2,3,4,5,6,6}
+s.discard(6)
+print(s)
+s2={1,2,3,4,5,6,6}
+s2.pop()
+print(s2)
+s3={1,2,3,4,5,6,6}
+print(max(s3))
+s3={1,2,3,4,5,6,6}
+print(min(s3))
+s3={1,2,3,4,5,6,6}
+print(sorted(s3))
